@@ -41,10 +41,6 @@ The dataset contains weather information (Temperature, Humidity, Windspeed, Visi
 
 ● Model Creation: Finally in this part we created the various models. These various models are being analysed and we tried to study various models so as to get the best performing model for our project.
 
-## Observations:
-● Observation 1: In the Model Evaluation Matrices table, Linear Regression, KNN is not giving great results.
-
-● Observation 2: Random forest & GBR have performed equally good in terms of adjusted r2.
 
 ## Conclusions:
 ● We started with loading the data, then we did Exploratory Data Analysis (EDA), null values treatment, feature selection, encoding of categorical columns, and then model building. In all of these models, our accuracy ranges from 56% to 91%, which can be said to be good for such a large dataset. This performance could be due to various reasons like the proper pattern of data, large data, or because of the relevant features.
